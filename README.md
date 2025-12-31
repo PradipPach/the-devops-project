@@ -1,6 +1,6 @@
 # DevOps Flask Dashboard
 
-**Author:** [Atul Kamble](https://github.com/atulkamble) | [LinkedIn](https://www.linkedin.com/in/atuljkamble/)
+**Author:** [pradip pachapol](https://github.com/PradipPach) | [LinkedIn](https://www.linkedin.com/in/pradippachapol)
 
 ## 🚀 Quick Run Instructions
 
