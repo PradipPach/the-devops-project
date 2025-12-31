@@ -2,7 +2,7 @@
 // clone repo on project folder
 //open in vs code 
 
-https://github.com/atulkamble/the-devops-project
+https://github.com/PradipPach/the-devops-project.git
 
 // prerequisites 
 git, docker or docker desktop, k8s or minikube, aws cli, python, tree
