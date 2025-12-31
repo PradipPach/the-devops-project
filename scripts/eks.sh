@@ -1,6 +1,6 @@
 #!/bin/bash
 # Basic EKS Cluster Creation Script
-# Author: Atul Kamble
+# Author: Pradip Pachapol
 
 eksctl create cluster \
   --name mycluster \
